@@ -6,3 +6,4 @@ youtube-transcript-api>=1.0.0
 sumy>=0.11.0
 moviepy>=1.0.3,<2.0.0
 nltk>=3.8.1
+redis
