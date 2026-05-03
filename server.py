@@ -19,6 +19,9 @@ jobs = {}
 NOISE_RE = re.compile(r'^\[.*\]$')
 STOP_WORDS = get_stop_words('english')
 
+@app.route('/debug')
+def debug():
+    return {"jobs": list(jobs.keys())}
 
 def log(jid, msg):
     print(f'[{jid[:8]}] {msg}', flush=True)
