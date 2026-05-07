@@ -1,1 +1,8 @@
-{"bbbb85fa-61be-4ccd-9b75-3ae8cca1bfef": {"status": "done", "stage": "encoding", "message": null, "video_url": "/video/bbbb85fa-61be-4ccd-9b75-3ae8cca1bfef/summary.mp4"}}
+{
+  "bbbb85fa-61be-4ccd-9b75-3ae8cca1bfef": {
+    "status": "done",
+    "stage": "encoding",
+    "message": null,
+    "video_url": "/video/bbbb85fa-61be-4ccd-9b75-3ae8cca1bfef/summary.mp4"
+  }
+}
